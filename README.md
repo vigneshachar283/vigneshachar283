@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer <br>Java • DSA • Backend <br> Solving problems one algorithm at a time <br>Building scalable applications | Open to internship opportunity
+Aspiring SDE | Backend • Cloud • RAG Systems | Node.js • Java • AWS | CSE ’28 | Open to Internships
 
 
 ## 🌐 Socials:
