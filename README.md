@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  Backend • Cloud • RAG Systems | Node.js • Java • AWS | CSE ’28 | Intern @Small Fare 
 
 
